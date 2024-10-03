@@ -14,7 +14,7 @@ python3 scriptCarpetas.py
 ```
 
 > [!TIP]
-> Si se encuentra en sistemas Windows NT, utilice `py` en luagr de `python3`
+> Si se encuentra en sistemas Windows NT, utilice `py` en lugar de `python3`
 
 ## TOP XI
 
