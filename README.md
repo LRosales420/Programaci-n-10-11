@@ -9,7 +9,13 @@ No se ni que voy a poner aquí, pero supongo que van a haber tareas d=====(￣�
 
 Para utilizar el script de organización de carpetas, diríjase al directorio ./testFolder/ y ejecute el siguiente comando en sistemas _Unix-based_:
 
+```
 python3 scriptCarpetas.py
+```
 
 > [!TIP]
-> Si se encuentra en sistemas Windows NT, utilice 'py' en luagr de 'python3'
+> Si se encuentra en sistemas Windows NT, utilice `py` en luagr de `python3`
+
+## TOP XI
+
+![TOP XI](./photos/top%20xi.jpg)
