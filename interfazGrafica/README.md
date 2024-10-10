@@ -8,6 +8,7 @@ Se aprendió a hacer ventanas que muestran mensajes, con botones y también entr
 
 ¿Qué hay que tener instalado para ejecutar el programa? ¿Qué comando utilizar?
 
+Python 3 con la librería tkinter
 ```
 py calculadora.py
 ```
