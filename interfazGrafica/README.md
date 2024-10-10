@@ -1,10 +1,10 @@
-#Calculadora con interfaz gráfica
+# Calculadora con interfaz gráfica
 
 En el presente directorio, se utilizó el módulo Tkinter para crear una interfaz gráfica para una calculadora.
 
 (Explicación)
 
-#Instrucciones de uso
+# Instrucciones de uso
 
 ¿Qué hay que tener instalado para ejecutar el programa? ¿Qué comando utilizar?
 
@@ -12,6 +12,6 @@ En el presente directorio, se utilizó el módulo Tkinter para crear una interfa
 py calculadora.py
 ```
 
-#Demostración de ejecución
+# Demostración de ejecución
 
 (Adjuntar imagen de la calculadora ejecutándose)
