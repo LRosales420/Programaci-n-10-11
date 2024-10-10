@@ -14,4 +14,6 @@ py calculadora.py
 
 # Demostración de ejecución
 
+![Calculator photo](./photos/calc.png)
+
 (Adjuntar imagen de la calculadora ejecutándose)
